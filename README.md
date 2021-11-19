@@ -217,9 +217,9 @@ darknet.exe detector test data/obj.data cfg/yolov4-custom.cfg /backup/yolov4-cus
 darknet.exe detector test data/obj.data cfg/yolov4-custom.cfg /backup/yolov4-custom_final.weight C:\Users\Name\Desktop\darknet\build\darknet\x64\test\sample.jpg
 ```
 
-src="/docs/predict1.jpg" alt="Prediction"/>
+src="/docs/predict1.png" alt="Prediction"/>
 
-src="/docs/predict2.jpg" alt="Prediction"/>
+src="/docs/predict2.png" alt="Prediction2"/>
 
 
 ## Contributing
