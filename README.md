@@ -128,8 +128,8 @@ Main Repository is AlexeyAB's:
 
 Content of the file `data/obj.names` should be
 ```
-NOPE # name of first class
-atki_birikimi # name of second class
+NOK # name of first class
+Kon # name of second class
               # third
               # all of them
 ```
